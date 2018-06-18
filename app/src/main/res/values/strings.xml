@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPKI</string>
+    <string name="button">Button</string>
+    <string name="submit">Submit</string>
+    <string name="todo">TODO</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
